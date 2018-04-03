@@ -1,0 +1,52 @@
+#blog-1{
+color: #8000ff;}
+
+#blog-2{
+color: green;}
+/*style for h3*/
+h3{
+	text-align: center;
+}
+.blog-center{
+	text-align: center;
+}
+
+body {
+	background-color: orange;
+	color: black;
+}
+#blog1section{
+	background-color: green; 
+}
+
+button{
+	background-color: grey;
+}
+ button a{
+	color: yellow;
+}
+
+a {
+	color: green
+}
+ul {
+	line-height: 50px;
+}
+ul{
+ list-style: square;
+}
+.container{
+	background-color: green;
+
+}
+
+#top{
+	width: 30%;
+	height: 50px;
+	position: fixed;
+	
+}
+
+#pagelist li:nth-child(odd){
+	background-color: red;
+}
